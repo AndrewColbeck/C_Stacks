@@ -1,5 +1,6 @@
-//This program will merge two ordered stacks of integers
-//into a single stack, by Andrew Colbeck
+// This program will merge two ordered stacks of integers
+// into a single stack.
+// by Andrew Colbeck
 
 
 #include <stdio.h>
